@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justice Eziefule
 ========================================================================================================================================
 
-Senior Frontend Developer, Blockchain Developer
+Senior Frontend Developer, Solidity Developer
 -----------------------------------------------
 
 A senior frontend developer with 5 years of experience in building user interfaces for robust web applications. A skilled problem solver with a keen eye for detail. Experienced in working with a variety of programming languages and tools, with a focus on React (frontend) and Solidity. My career transitioned from full-stack development to full focus on Frontend.
