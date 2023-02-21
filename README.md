@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justice Eziefule
 ========================================================================================================================================
 
-Javascript Frontend Developer, Solidity Engineer
+Solidity and Javascript Engineer
 -----------------------------------------------
-
-A frontend developer with 5 years of experience in building user interfaces for robust web applications. A skilled problem solver with a keen eye for detail. Experienced in working with a variety of programming languages and tools, with a focus on React (frontend) and Solidity. My career transitioned from full-stack development to full focus on Frontend.
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [eziefulejustice@gmail.com](mailto:eziefulejustice@gmail.com)
