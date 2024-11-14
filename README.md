@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript Engineer
 -----------------------------------------------
 
-* 🌍  I'm based in Dubai
+* 🌍  I'm based in Dubai/Lagos
 * ✉️  You can contact me at [eziefulejustice@gmail.com](mailto:eziefulejustice@gmail.com)
 * 🧠  I'm learning Rust
 * ⚡  An undercover nerd... I secretly want to learn to speak High Valerian from Game of Thrones
